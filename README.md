@@ -10,7 +10,6 @@
   <img align="center" alt="Eidan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eidan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eidan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="#"><img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/k2h3Tsl.gif"></a>
 </div>
   
   ##
